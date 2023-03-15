@@ -1,0 +1,1 @@
+clang -target x86_64-w64-mingw32 main.c -o test.exe
